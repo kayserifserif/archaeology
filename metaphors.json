@@ -1,0 +1,450 @@
+{
+  "www.google.com/": {
+    "title": "Google",
+    "type": "search",
+    "metaphors": [
+      "librarian",
+      "encyclopedia"
+    ]
+  },
+  "www.duckduckgo.com//": {
+    "title": "DuckDuckGo",
+    "type": "search",
+    "metaphors": [
+      "librarian",
+      "encyclopedia"
+    ]
+  },
+  "www.yahoo.com/": {
+    "title": "Yahoo",
+    "type": "search",
+    "metaphors": [
+      "librarian",
+      "encyclopedia"
+    ]
+  },
+  "www.ecosia.org": {
+    "title": "Ecosia",
+    "type": "search",
+    "metaphors": [
+      "librarian",
+      "encyclopedia"
+    ]
+  },
+  "www.bing.com/": {
+    "title": "Bing",
+    "type": "search",
+    "metaphors": [
+      "librarian",
+      "encyclopedia"
+    ]
+  },
+  "www.youtube.com/": {
+    "title": "YouTube",
+    "type": "video",
+    "metaphors": [
+      "cinema",
+      "tv"
+    ]
+  },
+  "www.netflix.com/": {
+    "title": "Netflix",
+    "type": "video",
+    "metaphors": [
+      "cinema",
+      "tv"
+    ]
+  },
+  "www.hulu.com/": {
+    "title": "Hulu",
+    "type": "video",
+    "metaphors": [
+      "cinema",
+      "tv"
+    ]
+  },
+  "www.hbo.com/": {
+    "title": "HBO",
+    "type": "video",
+    "metaphors": [
+      "cinema",
+      "tv"
+    ]
+  },
+  "www.vimeo.com/": {
+    "title": "Vimeo",
+    "type": "video",
+    "metaphors": [
+      "cinema",
+      "tv"
+    ]
+  },
+  "www.instagram.com/": {
+    "title": "Instagram",
+    "type": "social image sharing",
+    "metaphors": [
+      "photo album",
+      "art gallery",
+      "corkboard"
+    ]
+  },
+  "www.amazon.com/": {
+    "title": "Amazon",
+    "type": "shopping",
+    "metaphors": [
+      "bazaar",
+      "marketplace",
+      "store"
+    ]
+  },
+  "www.ebay.com/": {
+    "title": "eBay",
+    "type": "shopping",
+    "metaphors": [
+      "bazaar",
+      "marketplace",
+      "store"
+    ]
+  },
+  "www.taobao.com/": {
+    "title": "Taobao",
+    "type": "shopping",
+    "metaphors": [
+      "bazaar",
+      "marketplace",
+      "store"
+    ]
+  },
+  "www.zalora.com/": {
+    "title": "Zalora",
+    "type": "shopping",
+    "metaphors": [
+      "bazaar",
+      "marketplace",
+      "store"
+    ]
+  },
+  "www.asos.com/": {
+    "title": "ASOS",
+    "type": "shopping",
+    "metaphors": [
+      "bazaar",
+      "marketplace",
+      "store"
+    ]
+  },
+  "www.thereformation.com/": {
+    "title": "Reformation",
+    "type": "shopping",
+    "metaphors": [
+      "bazaar",
+      "marketplace",
+      "store"
+    ]
+  },
+  "www.wikipedia.org/": {
+    "title": "Wikipedia",
+    "type": "information/reference",
+    "metaphors": [
+      "encyclopedia",
+      "dictionary",
+      "almanac"
+    ]
+  },
+  "www.dictionary.com/": {
+    "title": "Dictionary.com/",
+    "type": "information/reference",
+    "metaphors": [
+      "encyclopedia",
+      "dictionary",
+      "almanac"
+    ]
+  },
+  "www.merriam-webster.com/": {
+    "title": "Merriam-Webster",
+    "type": "information/reference",
+    "metaphors": [
+      "encyclopedia",
+      "dictionary",
+      "almanac"
+    ]
+  },
+  "twitter.com/home": {
+    "title": "Twitter",
+    "type": "social blogging",
+    "metaphors": [
+      "agora",
+      "school cafeteria"
+    ]
+  },
+  "www.tumblr.com/": {
+    "title": "Tumblr",
+    "type": "social blogging",
+    "metaphors": [
+      "agora",
+      "school cafeteria"
+    ]
+  },
+  "www.wordpress.com/": {
+    "title": "Wordpress",
+    "type": "blogging",
+    "metaphors": [
+      "diary"
+    ]
+  },
+  "www.drive.google.com/": {
+    "title": "Google Drive",
+    "type": "office",
+    "metaphors": [
+      "office",
+      "filing cabinet"
+    ]
+  },
+  "www.dropbox.com/": {
+    "title": "Dropbox",
+    "type": "office",
+    "metaphors": [
+      "office",
+      "filing cabinet"
+    ]
+  },
+  "www.box.com/": {
+    "title": "Box",
+    "type": "office",
+    "metaphors": [
+      "office",
+      "filing cabinet"
+    ]
+  },
+  "mail.google.com/mail/u/0/#inbox": {
+    "title": "Gmail",
+    "type": "email",
+    "metaphors": [
+      "mailbox",
+      "post office",
+      "carrier pigeon",
+      "smoke signals"
+    ]
+  },
+  "outlook.live.com/": {
+    "title": "Outlook",
+    "type": "email",
+    "metaphors": [
+      "mailbox",
+      "post office",
+      "carrier pigeon",
+      "smoke signals"
+    ]
+  },
+  "mail.yahoo.com/": {
+    "title": "Yahoo Mail",
+    "type": "email",
+    "metaphors": [
+      "mailbox",
+      "post office",
+      "carrier pigeon",
+      "smoke signals"
+    ]
+  },
+  "news.google.com/": {
+    "title": "Google News",
+    "type": "news",
+    "metaphors": [
+      "news channel newspaper",
+      "herald"
+    ]
+  },
+  "news.yahoo.com/": {
+    "title": "Yahoo News",
+    "type": "news",
+    "metaphors": [
+      "news channel newspaper",
+      "herald"
+    ]
+  },
+  "www.cnn.com/": {
+    "title": "CNN News",
+    "type": "news",
+    "metaphors": [
+      "news channel newspaper",
+      "herald"
+    ]
+  },
+  "www.bbc.com/": {
+    "title": "BBC News",
+    "type": "news",
+    "metaphors": [
+      "news channel newspaper",
+      "herald"
+    ]
+  },
+  "www.nytimes.com/": {
+    "title": "New York Times",
+    "type": "news",
+    "metaphors": [
+      "news channel newspaper",
+      "herald"
+    ]
+  },
+  "www.theguardian.com/": {
+    "title": "The Guardian",
+    "type": "news",
+    "metaphors": [
+      "news channel newspaper",
+      "herald"
+    ]
+  },
+  "www.washingtonpost.com/": {
+    "title": "The Washington Post",
+    "type": "news",
+    "metaphors": [
+      "news channel newspaper",
+      "herald"
+    ]
+  },
+  "www.wsj.com/": {
+    "title": "The Wall Street Journal",
+    "type": "news",
+    "metaphors": [
+      "news channel newspaper",
+      "herald"
+    ]
+  },
+  "music.youtube.com/": {
+    "title": "Youtube Music",
+    "type": "music",
+    "metaphors": [
+      "concert hall",
+      "record store"
+    ]
+  },
+  "www.spotify.com/us/": {
+    "title": "Spotify",
+    "type": "music",
+    "metaphors": [
+      "concert hall",
+      "record store"
+    ]
+  },
+  "www.reddit.com/": {
+    "title": "Reddit",
+    "type": "discussion",
+    "metaphors": [
+      "forum",
+      "agora",
+      "newspaper"
+    ]
+  },
+  "www.quora.com/": {
+    "title": "Quora",
+    "type": "discussion",
+    "metaphors": [
+      "forum",
+      "agora",
+      "newspaper"
+    ]
+  },
+  "www.messenger.com/": {
+    "title": "Messenger",
+    "type": "messaging",
+    "metaphors": [
+      "telephone",
+      "notes passed in class",
+      "postcards"
+    ]
+  },
+  "www.whatsapp.com/": {
+    "title": "Whatsapp",
+    "type": "messaging",
+    "metaphors": [
+      "telephone",
+      "notes passed in class",
+      "postcards"
+    ]
+  },
+  "www.wechat.com/": {
+    "title": "WeChat",
+    "type": "messaging",
+    "metaphors": [
+      "telephone",
+      "notes passed in class",
+      "postcards"
+    ]
+  },
+  "www.discord.com/": {
+    "title": "Discord",
+    "type": "messaging",
+    "metaphors": [
+      "telephone",
+      "notes passed in class",
+      "postcards"
+    ]
+  },
+  "www.snapchat.com/": {
+    "title": "Snapchat",
+    "type": "messaging",
+    "metaphors": [
+      "telephone",
+      "notes passed in class",
+      "postcards"
+    ]
+  },
+  "www.facebook.com/": {
+    "title": "Facebook",
+    "type": "social media",
+    "metaphors": [
+      "family reunion"
+    ]
+  },
+  "www.linkedin.com/": {
+    "title": "LinkedIn",
+    "type": "professional networking",
+    "metaphors": [
+      "conference"
+    ]
+  },
+  "zoom.us": {
+    "title": "Zoom",
+    "type": "video conferencing",
+    "metaphors": [
+      "conference room",
+      "window",
+      "telephone"
+    ]
+  },
+  "meet.google.com/": {
+    "title": "Google Meet",
+    "type": "video conferencing",
+    "metaphors": [
+      "conference room",
+      "window",
+      "telephone"
+    ]
+  },
+  "docs.google.com/document/u/0/?tgif=d": {
+    "title": "Google Docs",
+    "type": "word processing",
+    "metaphors": [
+      "notepad",
+      "slide projector"
+    ]
+  },
+  "calendar.google.com/calendar/u/0/r": {
+    "title": "Google Calendar",
+    "type": "calendar",
+    "metaphors": [
+      "almanac",
+      "moon",
+      "sundial"
+    ]
+  },
+  "www.google.com/maps/@37.0625,-113.6067555,4z": {
+    "title": "Google Maps",
+    "type": "map",
+    "metaphors": [
+      "map",
+      "car GPS",
+      "celestial navigation"
+    ]
+  }
+}

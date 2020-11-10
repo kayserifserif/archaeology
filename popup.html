@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Archaeology Dig(ital)</title>
+  <!-- <link rel="stylesheet" type="text/css" href="css/fonts.css"> -->
+  <!-- <link rel="stylesheet" type="text/css" href="css/popup.css"> -->
+  <style>
+    * {
+      /* box-sizing: border-box; */
+    }
+
+    h1 {
+      margin: 0;
+    }
+
+    body {
+      padding: 2em;
+      font-family: sans-serif;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      gap: 1em;
+    }
+
+    button {
+      border-radius: 28px;
+      /* font-size: 20px; */
+      padding: 10px 20px 10px 20px;
+      border: 0;
+    }
+
+    button:not([disabled]) {
+      color: #ffffff;
+      background: #3498db;
+      background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    }
+
+    button:not([disabled]):hover {
+      background: #3cb0fd;
+      background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+      cursor: pointer;
+    }
+
+    .help {
+      color: #999;
+    }
+
+    div {
+      margin: auto;
+      max-width: 450px;
+      line-height: 2;
+    }
+
+    .object {
+      display: inline-block;
+      padding: .1em .5em;
+      margin: .1em;
+      border-radius: 5px;
+      /* background: #D65D74; */
+      background: #F4B912;
+      /* color: #fff; */
+    }
+
+    .object .site {
+      display: none;
+    }
+
+    .object:hover {
+      background: none;
+      /* padding: .3em 0; */
+      /* color: #000; */
+    }
+
+    .object:hover .metaphor {
+      display: none;
+    }
+
+    .object:hover .site {
+      display: inline-block;
+    }
+  </style>
+</head>
+<body>
+  <h1>Archaeology Dig(ital)</h1>
+  <div id="track">
+    <button type="button" id="begin">Begin tracking</button>
+  </div>
+  <div id="here">
+    <p class="help">This incarnation of this media is:</p>
+    <p id="url"></p>
+    <p class="help">In other lives, it may have been:</p>
+    <p id="metaphor"></p>
+  </div>
+  <div id="journey">
+    <p class="help">Your journey today:</p>
+    <p>Went to <span class="object"><span class="metaphor">the post office</span><span class="site">Gmail</span></span>. Dropped by <span class="object"><span class="metaphor">the record store</span><span class="site">Spotify</span></span>. Spent a few hours writing on <span class="object"><span class="metaphor">postcards</span><span class="site">Messenger</span></span>.</p>
+  </div>
+  <div id="journeys">
+    <button type="button" id="submit">Submit browsing journey</button>
+    <button type="button" id="view">View other journeys</button>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>

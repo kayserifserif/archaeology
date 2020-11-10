@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+  "name": "Archaeology Dig(ital)",
+  "version": "1.0",
+
+  "description": "Transmedia archaeology project.",
+
+  "content_scripts": [
+    {
+      // "matches": ["*://*.mozilla.org/*"],
+      // "matches": ["*://*.*/*"],
+      "matches": ["<all_urls>"],
+      "js": ["dig.js"]
+    }
+  ],
+
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_title": "Archaeology Dig(ital)"
+  },
+
+  "permissions": [
+    "<all_urls>",
+    "tabs"
+  ]
+
+}
